@@ -6,8 +6,8 @@ Para este terceiro projeto, a ideia era criar um e-commerce com um carrinho de c
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **VS Code Landing Page**
-| :label: Tecnologias | React, NextJS, TypeScript, Styled Components
+| :sparkles: Nome        | **GPU Store**
+| :label: Tecnologias | React, NextJS, TypeScript, Styled Components, Ant Design
 | :rocket: URL         | https://gpu-store.vercel.app/
 | :fire: Desafio     | https://gpu-store.vercel.app/
 
